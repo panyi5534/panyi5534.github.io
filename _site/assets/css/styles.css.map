@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		".current {\n  color: green;\n}\n\n.container-md {\n  max-width: 720px;\n}\n\n.post-div {\n  padding: 0.5rem 1rem;\n}\n\n.div-button-block {\n  height: 120px;\n}\n\n.a-text-decoration-none {\n  text-decoration: none;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACb;;AAED,AAAA,aAAa,CAAC,EACZ,SAAS,EAAE,KAAK,GACjB;;AAED,AAAA,SAAS,CAAC,EACR,OAAO,EAAE,WAAW,GACrB;;AAED,AAAA,iBAAiB,CAAC,EAChB,MAAM,EAAE,KAAK,GACd;;AAED,AAAA,uBAAuB,CAAC,EACtB,eAAe,EAAE,IAAI,GACtB"
+}
